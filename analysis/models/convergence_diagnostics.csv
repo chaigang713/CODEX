@@ -1,0 +1,217 @@
+fit,max_iterations,max_dual_gap,n_solutions
+cv0/common myeloid progenitor,717,9.964158663210092e-05,24
+cv1/common myeloid progenitor,781,9.958467409349947e-05,24
+cv2/common myeloid progenitor,789,9.977626879695655e-05,24
+train/common myeloid progenitor,33,1.511168417954356e-06,1
+cv0/erythrocyte,264,9.842058223605831e-05,24
+cv1/erythrocyte,207,9.57652380514814e-05,24
+cv2/erythrocyte,211,9.976415081719788e-05,24
+train/erythrocyte,156,7.206509209556195e-05,1
+cv0/platelet,509,9.955747419615218e-05,24
+cv1/platelet,404,9.989382445125291e-05,24
+cv2/platelet,472,9.946787451258901e-05,24
+train/platelet,161,8.483806673457458e-05,1
+cv0/macrophage,322,9.893179269691122e-05,24
+cv1/macrophage,274,9.795439202987872e-05,24
+cv2/macrophage,328,9.682425029547206e-05,24
+train/macrophage,234,9.855695434485455e-05,1
+cv0/B cell,487,9.95977053697206e-05,24
+cv1/B cell,387,9.971357394062383e-05,24
+cv2/B cell,446,9.773836122094086e-05,24
+train/B cell,229,9.035228554709802e-05,1
+cv0/monocyte,457,9.985260487096342e-05,24
+cv1/monocyte,370,9.981862775544588e-05,24
+cv2/monocyte,492,9.835329654104375e-05,24
+train/monocyte,195,9.299737278030107e-05,1
+cv0/natural killer cell,475,9.980511787391972e-05,24
+cv1/natural killer cell,438,9.605218803868347e-05,24
+cv2/natural killer cell,487,9.897685100211209e-05,24
+train/natural killer cell,240,9.955301117311114e-05,1
+"cv0/CD4-positive, alpha-beta T cell",555,9.825798951579033e-05,24
+"cv1/CD4-positive, alpha-beta T cell",495,9.885152522743834e-05,24
+"cv2/CD4-positive, alpha-beta T cell",531,9.93394652460927e-05,24
+"train/CD4-positive, alpha-beta T cell",238,9.209066610949485e-05,1
+"cv0/CD8-positive, alpha-beta T cell",452,9.931988618223731e-05,24
+"cv1/CD8-positive, alpha-beta T cell",430,9.997883583095081e-05,24
+"cv2/CD8-positive, alpha-beta T cell",461,9.951468935562857e-05,24
+"train/CD8-positive, alpha-beta T cell",240,8.559029294933703e-05,1
+cv0/basophil,326,9.29546944025022e-05,24
+cv1/basophil,317,9.627712988132791e-05,24
+cv2/basophil,295,9.808212252232635e-05,24
+train/basophil,101,4.027152585368599e-05,1
+cv0/neutrophil,335,9.828415536350778e-05,24
+cv1/neutrophil,282,9.84514823875344e-05,24
+cv2/neutrophil,273,9.989867924913433e-05,24
+train/neutrophil,190,9.999709287734476e-05,1
+cv0/myeloid dendritic cell,466,9.970319327530934e-05,24
+cv1/myeloid dendritic cell,454,9.760702224070883e-05,24
+cv2/myeloid dendritic cell,485,9.680177865505758e-05,24
+train/myeloid dendritic cell,62,6.424682606799614e-06,1
+cv0/plasmacytoid dendritic cell,750,9.933190977953322e-05,24
+cv1/plasmacytoid dendritic cell,628,9.906203411506182e-05,24
+cv2/plasmacytoid dendritic cell,733,9.986913442243528e-05,24
+train/plasmacytoid dendritic cell,256,8.64460258696623e-05,1
+cv0/plasma cell,792,9.970677826533835e-05,24
+cv1/plasma cell,654,9.931469082272229e-05,24
+cv2/plasma cell,737,9.721695678441431e-05,24
+train/plasma cell,211,9.561908686898249e-05,1
+cv0/mature NK T cell,468,9.97989534525131e-05,24
+cv1/mature NK T cell,494,9.982850839119934e-05,24
+cv2/mature NK T cell,514,9.753182128221667e-05,24
+train/mature NK T cell,159,9.615390613693599e-05,1
+cv0/regulatory T cell,612,9.98186679411008e-05,24
+cv1/regulatory T cell,542,9.932224021046371e-05,24
+cv2/regulatory T cell,623,9.955532444089283e-05,24
+train/regulatory T cell,245,9.293861910492894e-05,1
+cv0/classical monocyte,463,9.912032230339029e-05,24
+cv1/classical monocyte,388,9.990573268025993e-05,24
+cv2/classical monocyte,399,9.952025801858646e-05,24
+train/classical monocyte,188,8.627338608810752e-05,1
+cv0/non-classical monocyte,485,9.838525356571069e-05,24
+cv1/non-classical monocyte,464,9.918913133826001e-05,24
+cv2/non-classical monocyte,543,9.589254140712627e-05,24
+train/non-classical monocyte,312,9.925589517348412e-05,1
+"cv0/naive thymus-derived CD4-positive, alpha-beta T cell",619,9.994254182602597e-05,24
+"cv1/naive thymus-derived CD4-positive, alpha-beta T cell",566,9.977528722287156e-05,24
+"cv2/naive thymus-derived CD4-positive, alpha-beta T cell",601,9.971570284213229e-05,24
+"train/naive thymus-derived CD4-positive, alpha-beta T cell",200,9.933901386481008e-05,1
+cv0/intermediate monocyte,432,9.870843775063429e-05,24
+cv1/intermediate monocyte,345,9.58985461390161e-05,24
+cv2/intermediate monocyte,453,9.974830238474427e-05,24
+train/intermediate monocyte,213,9.671916707848681e-05,1
+cv0/hematopoietic precursor cell,655,9.972026781962936e-05,24
+cv1/hematopoietic precursor cell,644,9.9953303149222e-05,24
+cv2/hematopoietic precursor cell,665,9.86345120089029e-05,24
+train/hematopoietic precursor cell,88,9.261475334453777e-05,1
+stability0/common myeloid progenitor,32,1.6520251313078417e-06,1
+stability0/erythrocyte,161,8.635536715883159e-05,1
+stability0/platelet,164,5.9949158853415236e-05,1
+stability0/macrophage,238,9.20260583412113e-05,1
+stability0/B cell,210,9.385753034885902e-05,1
+stability0/monocyte,188,8.806927005135363e-05,1
+stability0/natural killer cell,276,9.548865042556999e-05,1
+"stability0/CD4-positive, alpha-beta T cell",263,9.603432022264306e-05,1
+"stability0/CD8-positive, alpha-beta T cell",258,9.473802340960013e-05,1
+stability0/basophil,101,4.575142557241727e-05,1
+stability0/neutrophil,212,9.409496780355814e-05,1
+stability0/myeloid dendritic cell,60,8.46221301834822e-06,1
+stability0/plasmacytoid dendritic cell,299,9.214144676472325e-05,1
+stability0/plasma cell,207,9.279481229355565e-05,1
+stability0/mature NK T cell,164,7.412673776770893e-05,1
+stability0/regulatory T cell,239,9.555413183862357e-05,1
+stability0/classical monocyte,178,8.515863883872534e-05,1
+stability0/non-classical monocyte,363,9.29814780481769e-05,1
+"stability0/naive thymus-derived CD4-positive, alpha-beta T cell",206,9.360289160182076e-05,1
+stability0/intermediate monocyte,219,9.76764818819462e-05,1
+stability0/hematopoietic precursor cell,90,6.392989239345966e-05,1
+stability1/common myeloid progenitor,33,2.386262393216324e-06,1
+stability1/erythrocyte,162,9.552841398933351e-05,1
+stability1/platelet,149,8.330648811865755e-05,1
+stability1/macrophage,265,8.762104472381282e-05,1
+stability1/B cell,232,9.571289024585892e-05,1
+stability1/monocyte,182,8.95875894940769e-05,1
+stability1/natural killer cell,256,9.417725111246436e-05,1
+"stability1/CD4-positive, alpha-beta T cell",260,9.500790822123132e-05,1
+"stability1/CD8-positive, alpha-beta T cell",249,9.30106309856937e-05,1
+stability1/basophil,98,6.328561700177373e-05,1
+stability1/neutrophil,204,9.74516112816128e-05,1
+stability1/myeloid dendritic cell,54,9.721849791770413e-06,1
+stability1/plasmacytoid dendritic cell,269,9.740183385849724e-05,1
+stability1/plasma cell,220,8.709322124763562e-05,1
+stability1/mature NK T cell,178,7.786631412315951e-05,1
+stability1/regulatory T cell,266,9.614004940879744e-05,1
+stability1/classical monocyte,187,8.7568848192207e-05,1
+stability1/non-classical monocyte,338,9.95672633936378e-05,1
+"stability1/naive thymus-derived CD4-positive, alpha-beta T cell",220,9.718503390400303e-05,1
+stability1/intermediate monocyte,235,9.847717230283846e-05,1
+stability1/hematopoietic precursor cell,94,7.078268156200344e-05,1
+stability2/common myeloid progenitor,31,1.6833543408011718e-06,1
+stability2/erythrocyte,157,8.123970595007525e-05,1
+stability2/platelet,158,8.644408676492908e-05,1
+stability2/macrophage,280,9.664153666552331e-05,1
+stability2/B cell,232,9.340081999780197e-05,1
+stability2/monocyte,212,9.768314379815827e-05,1
+stability2/natural killer cell,253,8.905948132945363e-05,1
+"stability2/CD4-positive, alpha-beta T cell",280,9.528321656330581e-05,1
+"stability2/CD8-positive, alpha-beta T cell",270,9.125368380377406e-05,1
+stability2/basophil,111,3.711283703235042e-05,1
+stability2/neutrophil,196,9.992793844584883e-05,1
+stability2/myeloid dendritic cell,63,7.523812290325111e-06,1
+stability2/plasmacytoid dendritic cell,237,8.817484515594101e-05,1
+stability2/plasma cell,219,9.06819662082425e-05,1
+stability2/mature NK T cell,193,9.984005000774813e-05,1
+stability2/regulatory T cell,263,8.818258735480756e-05,1
+stability2/classical monocyte,210,9.942793460098922e-05,1
+stability2/non-classical monocyte,341,8.85296849636454e-05,1
+"stability2/naive thymus-derived CD4-positive, alpha-beta T cell",226,9.842846953615101e-05,1
+stability2/intermediate monocyte,258,9.927846586827696e-05,1
+stability2/hematopoietic precursor cell,91,8.129396488726581e-05,1
+stability3/common myeloid progenitor,31,2.4107050597556244e-06,1
+stability3/erythrocyte,156,8.735049792192366e-05,1
+stability3/platelet,171,8.27921164309654e-05,1
+stability3/macrophage,267,9.593428334029205e-05,1
+stability3/B cell,226,9.802337591454157e-05,1
+stability3/monocyte,226,8.709389742373752e-05,1
+stability3/natural killer cell,252,9.188052716767158e-05,1
+"stability3/CD4-positive, alpha-beta T cell",250,9.490510678541254e-05,1
+"stability3/CD8-positive, alpha-beta T cell",241,8.085445642130849e-05,1
+stability3/basophil,104,5.080178011429697e-05,1
+stability3/neutrophil,212,9.26667287700214e-05,1
+stability3/myeloid dendritic cell,55,6.699384025876532e-06,1
+stability3/plasmacytoid dendritic cell,261,9.693544672472646e-05,1
+stability3/plasma cell,242,9.71156208112358e-05,1
+stability3/mature NK T cell,176,8.164376931332182e-05,1
+stability3/regulatory T cell,280,9.269360764720552e-05,1
+stability3/classical monocyte,226,8.013608056196955e-05,1
+stability3/non-classical monocyte,340,9.925009753384232e-05,1
+"stability3/naive thymus-derived CD4-positive, alpha-beta T cell",217,8.36125658988518e-05,1
+stability3/intermediate monocyte,246,9.220007048536119e-05,1
+stability3/hematopoietic precursor cell,90,5.358887176300799e-05,1
+stability4/common myeloid progenitor,32,1.9438336513605723e-06,1
+stability4/erythrocyte,161,6.127045088852267e-05,1
+stability4/platelet,176,9.905368870688915e-05,1
+stability4/macrophage,242,9.967723661987277e-05,1
+stability4/B cell,225,8.550250257399937e-05,1
+stability4/monocyte,204,9.598263493222107e-05,1
+stability4/natural killer cell,260,9.757026569869436e-05,1
+"stability4/CD4-positive, alpha-beta T cell",267,9.482678663668707e-05,1
+"stability4/CD8-positive, alpha-beta T cell",259,8.718006511036044e-05,1
+stability4/basophil,100,3.26893227124991e-05,1
+stability4/neutrophil,214,9.718418067102916e-05,1
+stability4/myeloid dendritic cell,56,6.976069701680597e-06,1
+stability4/plasmacytoid dendritic cell,290,9.685217352177491e-05,1
+stability4/plasma cell,218,9.74175129627867e-05,1
+stability4/mature NK T cell,193,9.504388923652365e-05,1
+stability4/regulatory T cell,271,8.032468600139276e-05,1
+stability4/classical monocyte,185,9.359756263377099e-05,1
+stability4/non-classical monocyte,340,9.58229838355821e-05,1
+"stability4/naive thymus-derived CD4-positive, alpha-beta T cell",222,9.184911074976534e-05,1
+stability4/intermediate monocyte,238,8.67656915044946e-05,1
+stability4/hematopoietic precursor cell,94,7.501394412891073e-05,1
+log1p/common myeloid progenitor,31,2.571088981835182e-06,1
+log1p/erythrocyte,131,8.204459052701123e-05,1
+log1p/platelet,128,8.75669732697135e-05,1
+log1p/macrophage,273,9.963510296355748e-05,1
+log1p/B cell,234,9.8570390965259e-05,1
+log1p/monocyte,206,7.479713127922672e-05,1
+log1p/natural killer cell,268,8.316985127666846e-05,1
+"log1p/CD4-positive, alpha-beta T cell",255,9.974328850762732e-05,1
+"log1p/CD8-positive, alpha-beta T cell",263,7.873087171265298e-05,1
+log1p/basophil,99,2.9858098337042632e-05,1
+log1p/neutrophil,190,9.842896489704689e-05,1
+log1p/myeloid dendritic cell,48,8.433938021357447e-06,1
+log1p/plasmacytoid dendritic cell,281,9.904057051198606e-05,1
+log1p/plasma cell,220,8.845788940433792e-05,1
+log1p/mature NK T cell,178,9.054882270651086e-05,1
+log1p/regulatory T cell,259,9.666838588841979e-05,1
+log1p/classical monocyte,204,8.488134240111936e-05,1
+log1p/non-classical monocyte,319,9.975631089780339e-05,1
+"log1p/naive thymus-derived CD4-positive, alpha-beta T cell",203,9.98852142110671e-05,1
+log1p/intermediate monocyte,239,8.395901717670395e-05,1
+log1p/hematopoietic precursor cell,94,4.659344404266086e-05,1
+null/erythrocyte,1175,9.90863748399756e-05,1
+null/platelet,482,9.961732234223304e-05,1
+null/B cell,881,9.407030426593637e-05,1
+null/monocyte,974,9.19704919923159e-05,1
+null/natural killer cell,1046,9.930943407698045e-05,1
+"null/CD4-positive, alpha-beta T cell",892,9.578676633413173e-05,1

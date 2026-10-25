@@ -1,0 +1,23 @@
+cell_type,cluster_k5
+hematopoietic stem cell,5
+common myeloid progenitor,5
+erythrocyte,1
+platelet,1
+macrophage,3
+B cell,5
+monocyte,3
+natural killer cell,4
+"CD4-positive, alpha-beta T cell",4
+"CD8-positive, alpha-beta T cell",4
+basophil,3
+neutrophil,3
+myeloid dendritic cell,2
+plasmacytoid dendritic cell,5
+plasma cell,5
+mature NK T cell,4
+regulatory T cell,4
+classical monocyte,3
+non-classical monocyte,3
+"naive thymus-derived CD4-positive, alpha-beta T cell",4
+intermediate monocyte,3
+hematopoietic precursor cell,5

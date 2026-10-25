@@ -1,0 +1,12 @@
+TF,available_as_L1000_perturbation,measured_as_response_gene
+GATA1,False,True
+GATA2,True,True
+SPI1,False,True
+CEBPA,False,True
+RUNX1,False,True
+TAL1,False,True
+KLF1,False,True
+MYB,True,True
+PAX5,False,True
+BCL11A,False,True
+TCF7,False,True

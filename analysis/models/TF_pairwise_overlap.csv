@@ -1,0 +1,211 @@
+cell_a,cell_b,n_shared,Jaccard,shared_TFs
+common myeloid progenitor,erythrocyte,1,0.05263157894736842,KLF6
+common myeloid progenitor,platelet,2,0.1111111111111111,KLF6;NCOA3
+common myeloid progenitor,macrophage,1,0.05263157894736842,KLF6
+common myeloid progenitor,B cell,0,0.0,
+common myeloid progenitor,monocyte,1,0.05263157894736842,KLF6
+common myeloid progenitor,natural killer cell,1,0.05263157894736842,KLF6
+common myeloid progenitor,"CD4-positive, alpha-beta T cell",1,0.05263157894736842,KLF6
+common myeloid progenitor,"CD8-positive, alpha-beta T cell",1,0.05263157894736842,KLF6
+common myeloid progenitor,basophil,3,0.17647058823529413,KLF6;PRDM1;STAT5A
+common myeloid progenitor,neutrophil,1,0.05263157894736842,KLF6
+common myeloid progenitor,myeloid dendritic cell,0,0.0,
+common myeloid progenitor,plasmacytoid dendritic cell,0,0.0,
+common myeloid progenitor,plasma cell,2,0.1111111111111111,LHX8;NCOA3
+common myeloid progenitor,mature NK T cell,1,0.05263157894736842,KLF6
+common myeloid progenitor,regulatory T cell,2,0.1111111111111111,KLF6;LHX8
+common myeloid progenitor,classical monocyte,1,0.05263157894736842,KLF6
+common myeloid progenitor,non-classical monocyte,0,0.0,
+common myeloid progenitor,"naive thymus-derived CD4-positive, alpha-beta T cell",0,0.0,
+common myeloid progenitor,intermediate monocyte,1,0.05263157894736842,KLF6
+common myeloid progenitor,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+erythrocyte,platelet,1,0.05263157894736842,KLF6
+erythrocyte,macrophage,3,0.17647058823529413,IRF3;KLF6;OVOL2
+erythrocyte,B cell,1,0.05263157894736842,NFYB
+erythrocyte,monocyte,3,0.17647058823529413,IRF3;KLF6;OVOL2
+erythrocyte,natural killer cell,3,0.17647058823529413,KLF6;NFYB;OVOL2
+erythrocyte,"CD4-positive, alpha-beta T cell",3,0.17647058823529413,KLF6;NFYB;OVOL2
+erythrocyte,"CD8-positive, alpha-beta T cell",3,0.17647058823529413,KLF6;NFYB;OVOL2
+erythrocyte,basophil,1,0.05263157894736842,KLF6
+erythrocyte,neutrophil,2,0.1111111111111111,KLF6;MYB
+erythrocyte,myeloid dendritic cell,2,0.1111111111111111,NFYB;ZNF790
+erythrocyte,plasmacytoid dendritic cell,1,0.05263157894736842,OVOL2
+erythrocyte,plasma cell,1,0.05263157894736842,OVOL2
+erythrocyte,mature NK T cell,3,0.17647058823529413,KLF6;NFYB;OVOL2
+erythrocyte,regulatory T cell,2,0.1111111111111111,KLF6;OVOL2
+erythrocyte,classical monocyte,3,0.17647058823529413,IRF3;KLF6;OVOL2
+erythrocyte,non-classical monocyte,2,0.1111111111111111,IRF3;OVOL2
+erythrocyte,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,NFYB;OVOL2
+erythrocyte,intermediate monocyte,3,0.17647058823529413,IRF3;KLF6;OVOL2
+erythrocyte,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+platelet,macrophage,1,0.05263157894736842,KLF6
+platelet,B cell,0,0.0,
+platelet,monocyte,1,0.05263157894736842,KLF6
+platelet,natural killer cell,1,0.05263157894736842,KLF6
+platelet,"CD4-positive, alpha-beta T cell",2,0.1111111111111111,KLF6;ZNF546
+platelet,"CD8-positive, alpha-beta T cell",1,0.05263157894736842,KLF6
+platelet,basophil,1,0.05263157894736842,KLF6
+platelet,neutrophil,1,0.05263157894736842,KLF6
+platelet,myeloid dendritic cell,1,0.05263157894736842,HNF4A
+platelet,plasmacytoid dendritic cell,0,0.0,
+platelet,plasma cell,1,0.05263157894736842,NCOA3
+platelet,mature NK T cell,1,0.05263157894736842,KLF6
+platelet,regulatory T cell,2,0.1111111111111111,ATMIN;KLF6
+platelet,classical monocyte,1,0.05263157894736842,KLF6
+platelet,non-classical monocyte,1,0.05263157894736842,HNF4A
+platelet,"naive thymus-derived CD4-positive, alpha-beta T cell",1,0.05263157894736842,HNF4A
+platelet,intermediate monocyte,1,0.05263157894736842,KLF6
+platelet,hematopoietic precursor cell,4,0.25,CREB5;HNF4A;KLF6;TFAP4
+macrophage,B cell,0,0.0,
+macrophage,monocyte,7,0.5384615384615384,IRF3;ISX;KLF6;OVOL2;PAX8;TFAP2A;ZNF300
+macrophage,natural killer cell,3,0.17647058823529413,KLF6;OVOL2;PAX8
+macrophage,"CD4-positive, alpha-beta T cell",2,0.1111111111111111,KLF6;OVOL2
+macrophage,"CD8-positive, alpha-beta T cell",3,0.17647058823529413,KLF6;OVOL2;PAX8
+macrophage,basophil,4,0.25,ISX;KLF6;ZNF300;ZNF597
+macrophage,neutrophil,5,0.3333333333333333,ISX;KLF6;PAX8;ZNF300;ZNF597
+macrophage,myeloid dendritic cell,1,0.05263157894736842,ZNF300
+macrophage,plasmacytoid dendritic cell,2,0.1111111111111111,OVOL2;SATB1
+macrophage,plasma cell,2,0.1111111111111111,OVOL2;TFAP2A
+macrophage,mature NK T cell,2,0.1111111111111111,KLF6;OVOL2
+macrophage,regulatory T cell,3,0.17647058823529413,KLF6;OVOL2;PAX8
+macrophage,classical monocyte,7,0.5384615384615384,IRF3;ISX;KLF6;OVOL2;PAX8;TFAP2A;ZNF300
+macrophage,non-classical monocyte,4,0.25,IRF3;OVOL2;PAX8;TFAP2A
+macrophage,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,OVOL2;ZNF300
+macrophage,intermediate monocyte,6,0.42857142857142855,IRF3;ISX;KLF6;OVOL2;PAX8;TFAP2A
+macrophage,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+B cell,monocyte,0,0.0,
+B cell,natural killer cell,1,0.05263157894736842,NFYB
+B cell,"CD4-positive, alpha-beta T cell",2,0.1111111111111111,NFYB;ZNF32
+B cell,"CD8-positive, alpha-beta T cell",2,0.1111111111111111,NFYB;ZNF32
+B cell,basophil,1,0.05263157894736842,RORC
+B cell,neutrophil,0,0.0,
+B cell,myeloid dendritic cell,1,0.05263157894736842,NFYB
+B cell,plasmacytoid dendritic cell,2,0.1111111111111111,ZNF114;ZNF267
+B cell,plasma cell,0,0.0,
+B cell,mature NK T cell,2,0.1111111111111111,NFYB;ZNF449
+B cell,regulatory T cell,1,0.05263157894736842,ZNF32
+B cell,classical monocyte,0,0.0,
+B cell,non-classical monocyte,0,0.0,
+B cell,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,NFYB;ZNF32
+B cell,intermediate monocyte,0,0.0,
+B cell,hematopoietic precursor cell,0,0.0,
+monocyte,natural killer cell,4,0.25,KLF6;OVOL2;PAX8;SIM2
+monocyte,"CD4-positive, alpha-beta T cell",2,0.1111111111111111,KLF6;OVOL2
+monocyte,"CD8-positive, alpha-beta T cell",3,0.17647058823529413,KLF6;OVOL2;PAX8
+monocyte,basophil,3,0.17647058823529413,ISX;KLF6;ZNF300
+monocyte,neutrophil,5,0.3333333333333333,HIF1A;ISX;KLF6;PAX8;ZNF300
+monocyte,myeloid dendritic cell,2,0.1111111111111111,HIF1A;ZNF300
+monocyte,plasmacytoid dendritic cell,1,0.05263157894736842,OVOL2
+monocyte,plasma cell,2,0.1111111111111111,OVOL2;TFAP2A
+monocyte,mature NK T cell,2,0.1111111111111111,KLF6;OVOL2
+monocyte,regulatory T cell,4,0.25,HIF1A;KLF6;OVOL2;PAX8
+monocyte,classical monocyte,10,1.0,HIF1A;IRF3;ISX;KLF6;OVOL2;PAX8;SIM2;TCF7L2;TFAP2A;ZNF300
+monocyte,non-classical monocyte,5,0.3333333333333333,IRF3;OVOL2;PAX8;TCF7L2;TFAP2A
+monocyte,"naive thymus-derived CD4-positive, alpha-beta T cell",3,0.17647058823529413,HIF1A;OVOL2;ZNF300
+monocyte,intermediate monocyte,9,0.8181818181818182,HIF1A;IRF3;ISX;KLF6;OVOL2;PAX8;SIM2;TCF7L2;TFAP2A
+monocyte,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+natural killer cell,"CD4-positive, alpha-beta T cell",4,0.25,KLF6;NFYB;OVOL2;ZNF195
+natural killer cell,"CD8-positive, alpha-beta T cell",7,0.5384615384615384,KLF6;NFYB;NR1H3;OVOL2;PAX8;ZNF195;ZNF583
+natural killer cell,basophil,2,0.1111111111111111,KLF6;ZNF583
+natural killer cell,neutrophil,3,0.17647058823529413,KLF6;PAX8;ZNF583
+natural killer cell,myeloid dendritic cell,1,0.05263157894736842,NFYB
+natural killer cell,plasmacytoid dendritic cell,1,0.05263157894736842,OVOL2
+natural killer cell,plasma cell,1,0.05263157894736842,OVOL2
+natural killer cell,mature NK T cell,5,0.3333333333333333,KLF6;NFYB;NR1H3;OVOL2;ZNF583
+natural killer cell,regulatory T cell,3,0.17647058823529413,KLF6;OVOL2;PAX8
+natural killer cell,classical monocyte,4,0.25,KLF6;OVOL2;PAX8;SIM2
+natural killer cell,non-classical monocyte,2,0.1111111111111111,OVOL2;PAX8
+natural killer cell,"naive thymus-derived CD4-positive, alpha-beta T cell",3,0.17647058823529413,NFYB;OVOL2;ZNF195
+natural killer cell,intermediate monocyte,4,0.25,KLF6;OVOL2;PAX8;SIM2
+natural killer cell,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+"CD4-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",6,0.42857142857142855,HOXB5;KLF6;NFYB;OVOL2;ZNF195;ZNF32
+"CD4-positive, alpha-beta T cell",basophil,1,0.05263157894736842,KLF6
+"CD4-positive, alpha-beta T cell",neutrophil,1,0.05263157894736842,KLF6
+"CD4-positive, alpha-beta T cell",myeloid dendritic cell,1,0.05263157894736842,NFYB
+"CD4-positive, alpha-beta T cell",plasmacytoid dendritic cell,2,0.1111111111111111,HOXB5;OVOL2
+"CD4-positive, alpha-beta T cell",plasma cell,2,0.1111111111111111,CLOCK;OVOL2
+"CD4-positive, alpha-beta T cell",mature NK T cell,3,0.17647058823529413,KLF6;NFYB;OVOL2
+"CD4-positive, alpha-beta T cell",regulatory T cell,4,0.25,KLF6;OVOL2;TCF4;ZNF32
+"CD4-positive, alpha-beta T cell",classical monocyte,2,0.1111111111111111,KLF6;OVOL2
+"CD4-positive, alpha-beta T cell",non-classical monocyte,1,0.05263157894736842,OVOL2
+"CD4-positive, alpha-beta T cell","naive thymus-derived CD4-positive, alpha-beta T cell",6,0.42857142857142855,CLOCK;NFYB;OVOL2;TCF4;ZNF195;ZNF32
+"CD4-positive, alpha-beta T cell",intermediate monocyte,2,0.1111111111111111,KLF6;OVOL2
+"CD4-positive, alpha-beta T cell",hematopoietic precursor cell,1,0.05263157894736842,KLF6
+"CD8-positive, alpha-beta T cell",basophil,2,0.1111111111111111,KLF6;ZNF583
+"CD8-positive, alpha-beta T cell",neutrophil,3,0.17647058823529413,KLF6;PAX8;ZNF583
+"CD8-positive, alpha-beta T cell",myeloid dendritic cell,1,0.05263157894736842,NFYB
+"CD8-positive, alpha-beta T cell",plasmacytoid dendritic cell,2,0.1111111111111111,HOXB5;OVOL2
+"CD8-positive, alpha-beta T cell",plasma cell,1,0.05263157894736842,OVOL2
+"CD8-positive, alpha-beta T cell",mature NK T cell,5,0.3333333333333333,KLF6;NFYB;NR1H3;OVOL2;ZNF583
+"CD8-positive, alpha-beta T cell",regulatory T cell,4,0.25,KLF6;OVOL2;PAX8;ZNF32
+"CD8-positive, alpha-beta T cell",classical monocyte,3,0.17647058823529413,KLF6;OVOL2;PAX8
+"CD8-positive, alpha-beta T cell",non-classical monocyte,2,0.1111111111111111,OVOL2;PAX8
+"CD8-positive, alpha-beta T cell","naive thymus-derived CD4-positive, alpha-beta T cell",4,0.25,NFYB;OVOL2;ZNF195;ZNF32
+"CD8-positive, alpha-beta T cell",intermediate monocyte,3,0.17647058823529413,KLF6;OVOL2;PAX8
+"CD8-positive, alpha-beta T cell",hematopoietic precursor cell,1,0.05263157894736842,KLF6
+basophil,neutrophil,5,0.3333333333333333,ISX;KLF6;ZNF300;ZNF583;ZNF597
+basophil,myeloid dendritic cell,1,0.05263157894736842,ZNF300
+basophil,plasmacytoid dendritic cell,0,0.0,
+basophil,plasma cell,1,0.05263157894736842,ZNF653
+basophil,mature NK T cell,2,0.1111111111111111,KLF6;ZNF583
+basophil,regulatory T cell,1,0.05263157894736842,KLF6
+basophil,classical monocyte,3,0.17647058823529413,ISX;KLF6;ZNF300
+basophil,non-classical monocyte,0,0.0,
+basophil,"naive thymus-derived CD4-positive, alpha-beta T cell",1,0.05263157894736842,ZNF300
+basophil,intermediate monocyte,2,0.1111111111111111,ISX;KLF6
+basophil,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+neutrophil,myeloid dendritic cell,2,0.1111111111111111,HIF1A;ZNF300
+neutrophil,plasmacytoid dendritic cell,0,0.0,
+neutrophil,plasma cell,0,0.0,
+neutrophil,mature NK T cell,2,0.1111111111111111,KLF6;ZNF583
+neutrophil,regulatory T cell,3,0.17647058823529413,HIF1A;KLF6;PAX8
+neutrophil,classical monocyte,5,0.3333333333333333,HIF1A;ISX;KLF6;PAX8;ZNF300
+neutrophil,non-classical monocyte,1,0.05263157894736842,PAX8
+neutrophil,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,HIF1A;ZNF300
+neutrophil,intermediate monocyte,4,0.25,HIF1A;ISX;KLF6;PAX8
+neutrophil,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+myeloid dendritic cell,plasmacytoid dendritic cell,0,0.0,
+myeloid dendritic cell,plasma cell,0,0.0,
+myeloid dendritic cell,mature NK T cell,2,0.1111111111111111,HOXA6;NFYB
+myeloid dendritic cell,regulatory T cell,1,0.05263157894736842,HIF1A
+myeloid dendritic cell,classical monocyte,2,0.1111111111111111,HIF1A;ZNF300
+myeloid dendritic cell,non-classical monocyte,1,0.05263157894736842,HNF4A
+myeloid dendritic cell,"naive thymus-derived CD4-positive, alpha-beta T cell",4,0.25,HIF1A;HNF4A;NFYB;ZNF300
+myeloid dendritic cell,intermediate monocyte,1,0.05263157894736842,HIF1A
+myeloid dendritic cell,hematopoietic precursor cell,1,0.05263157894736842,HNF4A
+plasmacytoid dendritic cell,plasma cell,2,0.1111111111111111,OVOL2;ZNF558
+plasmacytoid dendritic cell,mature NK T cell,1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,regulatory T cell,1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,classical monocyte,1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,non-classical monocyte,1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,"naive thymus-derived CD4-positive, alpha-beta T cell",1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,intermediate monocyte,1,0.05263157894736842,OVOL2
+plasmacytoid dendritic cell,hematopoietic precursor cell,0,0.0,
+plasma cell,mature NK T cell,1,0.05263157894736842,OVOL2
+plasma cell,regulatory T cell,2,0.1111111111111111,LHX8;OVOL2
+plasma cell,classical monocyte,2,0.1111111111111111,OVOL2;TFAP2A
+plasma cell,non-classical monocyte,2,0.1111111111111111,OVOL2;TFAP2A
+plasma cell,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,CLOCK;OVOL2
+plasma cell,intermediate monocyte,2,0.1111111111111111,OVOL2;TFAP2A
+plasma cell,hematopoietic precursor cell,0,0.0,
+mature NK T cell,regulatory T cell,2,0.1111111111111111,KLF6;OVOL2
+mature NK T cell,classical monocyte,2,0.1111111111111111,KLF6;OVOL2
+mature NK T cell,non-classical monocyte,1,0.05263157894736842,OVOL2
+mature NK T cell,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,NFYB;OVOL2
+mature NK T cell,intermediate monocyte,2,0.1111111111111111,KLF6;OVOL2
+mature NK T cell,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+regulatory T cell,classical monocyte,4,0.25,HIF1A;KLF6;OVOL2;PAX8
+regulatory T cell,non-classical monocyte,2,0.1111111111111111,OVOL2;PAX8
+regulatory T cell,"naive thymus-derived CD4-positive, alpha-beta T cell",4,0.25,HIF1A;OVOL2;TCF4;ZNF32
+regulatory T cell,intermediate monocyte,4,0.25,HIF1A;KLF6;OVOL2;PAX8
+regulatory T cell,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+classical monocyte,non-classical monocyte,5,0.3333333333333333,IRF3;OVOL2;PAX8;TCF7L2;TFAP2A
+classical monocyte,"naive thymus-derived CD4-positive, alpha-beta T cell",3,0.17647058823529413,HIF1A;OVOL2;ZNF300
+classical monocyte,intermediate monocyte,9,0.8181818181818182,HIF1A;IRF3;ISX;KLF6;OVOL2;PAX8;SIM2;TCF7L2;TFAP2A
+classical monocyte,hematopoietic precursor cell,1,0.05263157894736842,KLF6
+non-classical monocyte,"naive thymus-derived CD4-positive, alpha-beta T cell",2,0.1111111111111111,HNF4A;OVOL2
+non-classical monocyte,intermediate monocyte,6,0.42857142857142855,CTCF;IRF3;OVOL2;PAX8;TCF7L2;TFAP2A
+non-classical monocyte,hematopoietic precursor cell,2,0.1111111111111111,HNF4A;MAFG
+"naive thymus-derived CD4-positive, alpha-beta T cell",intermediate monocyte,2,0.1111111111111111,HIF1A;OVOL2
+"naive thymus-derived CD4-positive, alpha-beta T cell",hematopoietic precursor cell,1,0.05263157894736842,HNF4A
+intermediate monocyte,hematopoietic precursor cell,1,0.05263157894736842,KLF6

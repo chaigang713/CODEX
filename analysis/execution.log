@@ -1,0 +1,29 @@
+Fontconfig error: No writable cache directories
+QC 11940 shared genes; 369 TF perturbations
+Model 1/21 common myeloid progenitor: test R2=0.071, selected=98
+Model 2/21 erythrocyte: test R2=0.621, selected=572
+Model 3/21 platelet: test R2=0.410, selected=581
+Model 4/21 macrophage: test R2=0.548, selected=762
+Model 5/21 B cell: test R2=0.430, selected=707
+Model 6/21 monocyte: test R2=0.469, selected=683
+Model 7/21 natural killer cell: test R2=0.456, selected=760
+Model 8/21 CD4-positive, alpha-beta T cell: test R2=0.429, selected=763
+Model 9/21 CD8-positive, alpha-beta T cell: test R2=0.465, selected=747
+Model 10/21 basophil: test R2=0.421, selected=416
+Model 11/21 neutrophil: test R2=0.594, selected=672
+Model 12/21 myeloid dendritic cell: test R2=0.190, selected=233
+Model 13/21 plasmacytoid dendritic cell: test R2=0.394, selected=787
+Model 14/21 plasma cell: test R2=0.411, selected=691
+Model 15/21 mature NK T cell: test R2=0.368, selected=648
+Model 16/21 regulatory T cell: test R2=0.367, selected=766
+Model 17/21 classical monocyte: test R2=0.478, selected=678
+Model 18/21 non-classical monocyte: test R2=0.470, selected=858
+Model 19/21 naive thymus-derived CD4-positive, alpha-beta T cell: test R2=0.353, selected=704
+Model 20/21 intermediate monocyte: test R2=0.495, selected=751
+Model 21/21 hematopoietic precursor cell: test R2=0.261, selected=393
+Stability repeat 1 complete
+Stability repeat 2 complete
+Stability repeat 3 complete
+Stability repeat 4 complete
+Stability repeat 5 complete
+ALL COMPLETE 140.44519877433777

@@ -2391,7 +2391,7 @@ common myeloid progenitor,RBBP6,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0483834946877045
 common myeloid progenitor,APOM,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0182527321301317,False,zero,2390
 common myeloid progenitor,RBP4,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0652557649158833,False,zero,2391
 common myeloid progenitor,ATP5D,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0352092565024098,False,zero,2392
-common myeloid progenitor,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0495186593255703,False,zero,2393
+common myeloid progenitor,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0495186593255703,False,zero,2393
 common myeloid progenitor,RGS18,False,0.0,0.0,0.0,0.0,0.0,0.0,0.045991540348287,False,zero,2394
 common myeloid progenitor,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0403850602944612,False,zero,2395
 common myeloid progenitor,PSMB1,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0054454798733559,False,zero,2396
@@ -3167,7 +3167,7 @@ erythrocyte,ZBTB49,True,-0.0043744000363406,0.0043744000363406,-0.00169565735935
 erythrocyte,MAT2A,False,-0.0043688633254685,0.0043688633254685,-0.0016935111531446,-0.0029612405368222,0.4,0.4,0.1415093319323716,True,negative,449
 erythrocyte,GNB5,False,-0.0043277723831018,0.0043277723831018,-0.0016775829896826,-0.0027181363909742,0.6,0.6,0.1490456565868856,True,negative,450
 erythrocyte,ZNF317,True,-0.0042995635314225,0.0042995635314225,-0.0016666483365755,-0.0030374713199028,0.8,0.8,-0.0635461397150739,True,negative,451
-erythrocyte,PHF19,False,-0.0042096830808569,0.0042096830808569,-0.0016318077993138,-0.0029425932163068,0.6,0.6,0.1182694412195669,True,negative,452
+erythrocyte,PHF19,True,-0.0042096830808569,0.0042096830808569,-0.0016318077993138,-0.0029425932163068,0.6,0.6,0.1182694412195669,True,negative,452
 erythrocyte,KITLG,False,0.0041196395569446,0.0041196395569446,0.0015969040496073,0.002958698492636,0.6,0.6,-0.0279539734160361,True,positive,453
 erythrocyte,HMGN5,False,-0.0040509962395877,0.0040509962395877,-0.0015702957043988,-0.0037650726581309,0.8,0.8,-0.0083486291762791,True,negative,454
 erythrocyte,S100P,False,0.0040118468071254,0.0040118468071254,0.0015551201322706,0.0030111555862753,0.6,0.6,0.078548826955468,True,positive,455
@@ -7263,7 +7263,7 @@ platelet,TNFSF13B,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0424535280004055,False,zer
 platelet,SUCNR1,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0831909049046138,False,zero,1828
 platelet,CDK10,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0769297662053664,False,zero,1829
 platelet,ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.1343828966986037,False,zero,1830
-platelet,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0555981486991735,False,zero,1831
+platelet,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0555981486991735,False,zero,1831
 platelet,RGS18,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0989076368403621,False,zero,1832
 platelet,COASY,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,-0.0407255161503089,False,zero,1833
 platelet,PSMB1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.014049094716705,False,zero,1834
@@ -10682,7 +10682,7 @@ macrophage,SLC35A1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0003579932830307,False,ze
 macrophage,LAMTOR3,False,0.0,0.0,0.0,0.0,0.8,0.0,0.0869855016353209,False,zero,2530
 macrophage,APOM,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,0.0295343799540143,False,zero,2531
 macrophage,RBP4,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0451816737624036,False,zero,2532
-macrophage,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0360681847711837,False,zero,2533
+macrophage,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0360681847711837,False,zero,2533
 macrophage,RGS18,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0817502366081668,False,zero,2534
 macrophage,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1246996965191584,False,zero,2535
 macrophage,APOH,False,-0.0,0.0,-0.0,-0.0,0.4,0.0,-0.0445251375454906,False,zero,2536
@@ -11429,7 +11429,7 @@ B cell,PRKRIR,False,-0.0051559886029931,0.0051559886029931,-0.0010845262936648,-
 B cell,CD40,False,0.0051348921640855,0.0051348921640855,0.0010800888046671,0.0013781150464355,0.4,0.4,0.1197897009824993,True,positive,560
 B cell,EIF3H,False,-0.0051149433610235,0.0051149433610235,-0.0010758927128769,-0.0020410868394071,1.0,1.0,-0.0977717299243928,True,negative,561
 B cell,AMBP,False,0.0050784287936867,0.0050784287936867,0.0010682121279439,0.0016948295352708,0.6,0.6,-0.093882714542683,True,positive,562
-B cell,PHF19,False,-0.0049807518048056,0.0049807518048056,-0.0010476664536059,-0.0018892275184795,0.4,0.4,0.0698647805226361,True,negative,563
+B cell,PHF19,True,-0.0049807518048056,0.0049807518048056,-0.0010476664536059,-0.0018892275184795,0.4,0.4,0.0698647805226361,True,negative,563
 B cell,GFOD1,False,-0.0049598411906659,0.0049598411906659,-0.001043268051554,-0.0021512402661169,0.6,0.6,-0.1006624819737677,True,negative,564
 B cell,ZIM3,True,-0.0049328353038784,0.0049328353038784,-0.0010375875513512,-0.0015685753891042,0.8,0.8,-0.0344972160356552,True,negative,565
 B cell,GUSB,False,-0.0049073802535518,0.0049073802535518,-0.0010322332587971,-0.0016407927976797,0.8,0.8,-0.1196071189846439,True,negative,566
@@ -16087,7 +16087,7 @@ monocyte,E2F8,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0988061796722895,False,zero,2500
 monocyte,APOM,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,-0.0154542727092742,False,zero,2501
 monocyte,RBP4,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0319258362556187,False,zero,2502
 monocyte,ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0263560721316799,False,zero,2503
-monocyte,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0081923239932052,False,zero,2504
+monocyte,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0081923239932052,False,zero,2504
 monocyte,RGS18,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0539774706561071,False,zero,2505
 monocyte,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0743639908548648,False,zero,2506
 monocyte,HNMT,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0428104645316256,False,zero,2507
@@ -18810,7 +18810,7 @@ natural killer cell,RBBP6,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0803925735146611,F
 natural killer cell,APOM,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0148567417470449,False,zero,2507
 natural killer cell,RBP4,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0334250568423719,False,zero,2508
 natural killer cell,HOXA10,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0917606999675161,False,zero,2509
-natural killer cell,PHF19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0349368650492845,False,zero,2510
+natural killer cell,PHF19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0349368650492845,False,zero,2510
 natural killer cell,RGS18,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0553942383293133,False,zero,2511
 natural killer cell,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1189331155004353,False,zero,2512
 natural killer cell,HNMT,False,0.0,0.0,0.0,0.0,0.4,0.0,0.0968900764535724,False,zero,2513
@@ -19336,7 +19336,7 @@ natural killer cell,CFL1,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0912883314073838,False,
 "CD4-positive, alpha-beta T cell",ECD,False,0.0206161715420418,0.0206161715420418,0.0040118375369319,0.0062807218741498,0.8,0.8,0.0920099367421291,True,positive,316
 "CD4-positive, alpha-beta T cell",EIF4E3,False,0.0205235560577578,0.0205235560577578,0.0039938148756636,0.0069018653519583,1.0,1.0,0.0299511357614437,True,positive,317
 "CD4-positive, alpha-beta T cell",LOC100506100,False,0.0205118124206199,0.0205118124206199,0.0039915296034347,0.0042819594979271,0.8,0.8,0.1412299746666263,True,positive,318
-"CD4-positive, alpha-beta T cell",PHF19,False,-0.0204960632503204,0.0204960632503204,-0.0039884648679452,-0.0071922867808508,1.0,1.0,0.0671148015564523,True,negative,319
+"CD4-positive, alpha-beta T cell",PHF19,True,-0.0204960632503204,0.0204960632503204,-0.0039884648679452,-0.0071922867808508,1.0,1.0,0.0671148015564523,True,negative,319
 "CD4-positive, alpha-beta T cell",DHRS2,False,0.0204764642927749,0.0204764642927749,0.0039846509768256,0.0079185230633936,1.0,1.0,-0.0552925962075212,True,positive,320
 "CD4-positive, alpha-beta T cell",GGTLC1,False,0.0204699942601205,0.0204699942601205,0.0039833919302652,0.0090877986084885,1.0,1.0,-0.0184377997100866,True,positive,321
 "CD4-positive, alpha-beta T cell",LINC00115,False,0.02036929839565,0.02036929839565,0.0039637968542312,0.0061375695989329,1.0,1.0,0.0505845373510965,True,positive,322
@@ -24271,7 +24271,7 @@ natural killer cell,CFL1,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0912883314073838,False,
 "CD8-positive, alpha-beta T cell",APOM,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0209532011970145,False,zero,2534
 "CD8-positive, alpha-beta T cell",RBP4,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0298254630641552,False,zero,2535
 "CD8-positive, alpha-beta T cell",ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0657938744400206,False,zero,2536
-"CD8-positive, alpha-beta T cell",PHF19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0384497353954784,False,zero,2537
+"CD8-positive, alpha-beta T cell",PHF19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0384497353954784,False,zero,2537
 "CD8-positive, alpha-beta T cell",IGF2BP3,False,0.0,0.0,0.0,0.0,0.4,0.0,0.0049536385447783,False,zero,2538
 "CD8-positive, alpha-beta T cell",M6PR,False,0.0,0.0,0.0,0.0,0.4,0.0,0.0746605821766727,False,zero,2539
 "CD8-positive, alpha-beta T cell",DLD,False,0.0,0.0,0.0,0.0,0.2,0.0,-0.0537431688132516,False,zero,2540
@@ -27008,7 +27008,7 @@ basophil,LAMTOR3,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0981881053621979,False,zero,255
 basophil,APOM,False,-0.0,0.0,-0.0,-0.0,0.4,0.0,0.0402529782468967,False,zero,2554
 basophil,RBP4,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0627303046472163,False,zero,2555
 basophil,ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.1089721379994052,False,zero,2556
-basophil,PHF19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.065732249582074,False,zero,2557
+basophil,PHF19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.065732249582074,False,zero,2557
 basophil,RGS18,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0859394366108415,False,zero,2558
 basophil,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1423753785926029,False,zero,2559
 basophil,PSMB1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0385117519389019,False,zero,2560
@@ -29041,7 +29041,7 @@ neutrophil,SUCNR1,False,0.0,0.0,0.0,0.0,0.6,0.0,0.0649738185597502,False,zero,18
 neutrophil,CDK10,False,0.0,0.0,0.0,0.0,0.2,0.0,-0.0573030057589191,False,zero,1870
 neutrophil,APOM,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0381921471713467,False,zero,1871
 neutrophil,COASY,False,0.0,0.0,0.0,0.0,0.2,0.0,-0.0493746843729847,False,zero,1872
-neutrophil,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0499544489060647,False,zero,1873
+neutrophil,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0499544489060647,False,zero,1873
 neutrophil,RGS18,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.1010595080990289,False,zero,1874
 neutrophil,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1428628044295002,False,zero,1875
 neutrophil,HNMT,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0656300978592877,False,zero,1876
@@ -32317,7 +32317,7 @@ myeloid dendritic cell,GTF2B,True,0.0,0.0,0.0,0.0,0.0,0.0,-0.1172429180817106,Fa
 myeloid dendritic cell,ARG1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0615345113260931,False,zero,2429
 myeloid dendritic cell,SLC35A1,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0218680493665489,False,zero,2430
 myeloid dendritic cell,TNFSF13B,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0291326567159368,False,zero,2431
-myeloid dendritic cell,PHF19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0714200556963083,False,zero,2432
+myeloid dendritic cell,PHF19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0714200556963083,False,zero,2432
 myeloid dendritic cell,HOXA10,True,0.0,0.0,0.0,0.0,0.0,0.0,-0.1116455868041911,False,zero,2433
 myeloid dendritic cell,HIST2H2BE,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0824652268921429,False,zero,2434
 myeloid dendritic cell,MLLT10,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1068388950694741,False,zero,2435
@@ -35111,7 +35111,7 @@ plasmacytoid dendritic cell,ISX,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0011649532044
 plasmacytoid dendritic cell,CLCN5,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0030982375738096,False,zero,2506
 plasmacytoid dendritic cell,RBP4,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,0.0107619380752078,False,zero,2507
 plasmacytoid dendritic cell,ANKRD49,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0167019822793224,False,zero,2508
-plasmacytoid dendritic cell,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0039213906007822,False,zero,2509
+plasmacytoid dendritic cell,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0039213906007822,False,zero,2509
 plasmacytoid dendritic cell,RGS18,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0055578327455573,False,zero,2510
 plasmacytoid dendritic cell,PSMB1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0443448994687917,False,zero,2511
 plasmacytoid dendritic cell,HNMT,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0363452279032111,False,zero,2512
@@ -37878,7 +37878,7 @@ plasma cell,LAMTOR3,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0731870193987054,False,zero,
 plasma cell,APOM,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.030054423444559,False,zero,2556
 plasma cell,RBP4,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0024304792458105,False,zero,2557
 plasma cell,ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0690613217558958,False,zero,2558
-plasma cell,PHF19,False,-0.0,0.0,-0.0,-0.0,0.6,0.0,0.0052038650011125,False,zero,2559
+plasma cell,PHF19,True,-0.0,0.0,-0.0,-0.0,0.6,0.0,0.0052038650011125,False,zero,2559
 plasma cell,OLIG3,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0014372383665307,False,zero,2560
 plasma cell,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0629385699734833,False,zero,2561
 plasma cell,PSMB1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0442804100844975,False,zero,2562
@@ -40537,7 +40537,7 @@ mature NK T cell,RBBP6,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0767735279481771,Fals
 mature NK T cell,APOM,False,-0.0,0.0,-0.0,-0.0,0.4,0.0,0.0162272459811079,False,zero,2498
 mature NK T cell,RBP4,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0261590785890075,False,zero,2499
 mature NK T cell,ANKRD49,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0579330491615959,False,zero,2500
-mature NK T cell,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0346926755210591,False,zero,2501
+mature NK T cell,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0346926755210591,False,zero,2501
 mature NK T cell,RGS18,False,0.0,0.0,0.0,0.0,0.4,0.0,-0.0487936717792758,False,zero,2502
 mature NK T cell,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1130341355984075,False,zero,2503
 mature NK T cell,MCM8,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.1138289288526864,False,zero,2504
@@ -41436,7 +41436,7 @@ regulatory T cell,LHPP,False,-0.0025472919513836,0.0025472919513836,-0.000626240
 regulatory T cell,GNAI2,False,0.0025305732813666,0.0025305732813666,0.0006221299745407,0.0011498060324374,0.4,0.4,-0.0546170762746623,True,positive,680
 regulatory T cell,TPM1,False,-0.0025048243544523,0.0025048243544523,-0.0006157997175339,-0.0016883339604127,1.0,1.0,-0.0191261987772536,True,negative,681
 regulatory T cell,LOC100506100,False,0.0024492065639202,0.0024492065639202,0.0006021263357502,0.0006459379832982,0.6,0.6,0.0638721335758814,True,positive,682
-regulatory T cell,PHF19,False,-0.0024341493856673,0.0024341493856673,-0.0005984245967047,-0.0010791222835649,0.6,0.6,0.0209931626712074,True,negative,683
+regulatory T cell,PHF19,True,-0.0024341493856673,0.0024341493856673,-0.0005984245967047,-0.0010791222835649,0.6,0.6,0.0209931626712074,True,negative,683
 regulatory T cell,STAT2,True,0.0024257060916721,0.0024257060916721,0.0005963488511348,0.0011743512338038,0.6,0.6,0.0323132477309067,True,positive,684
 regulatory T cell,RAD1,False,-0.0024134444824848,0.0024134444824848,-0.0005933343900766,-0.0013780728174607,0.4,0.4,-0.0351520127839516,True,negative,685
 regulatory T cell,IGFBP7,False,-0.0023903626353982,0.0023903626353982,-0.0005876598225602,-0.0009730474030996,0.6,0.6,-0.0740814558039064,True,negative,686
@@ -45970,7 +45970,7 @@ classical monocyte,GOT1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.004589679775174,Fals
 classical monocyte,NEU1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0163296271862506,False,zero,2497
 classical monocyte,NMUR2,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0035640890345767,False,zero,2498
 classical monocyte,SLC30A8,False,0.0,0.0,0.0,0.0,0.4,0.0,0.0817418667290365,False,zero,2499
-classical monocyte,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0001200039601657,False,zero,2500
+classical monocyte,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0001200039601657,False,zero,2500
 classical monocyte,RGS18,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0346190214980233,False,zero,2501
 classical monocyte,PSMA3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0686155053328416,False,zero,2502
 classical monocyte,HNMT,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0384891093168873,False,zero,2503
@@ -48731,7 +48731,7 @@ non-classical monocyte,TNFSF13B,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0098679672546
 non-classical monocyte,SUCNR1,False,-0.0,0.0,-0.0,-0.0,0.4,0.0,-0.0227947628685418,False,zero,2541
 non-classical monocyte,CDK10,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0037598714595793,False,zero,2542
 non-classical monocyte,CCNC,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0148347194397744,False,zero,2543
-non-classical monocyte,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0133349301633104,False,zero,2544
+non-classical monocyte,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0133349301633104,False,zero,2544
 non-classical monocyte,SYT1,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.010523333126988,False,zero,2545
 non-classical monocyte,DHX29,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,-0.0164201183735289,False,zero,2546
 non-classical monocyte,PSMB9,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0404746896406242,False,zero,2547
@@ -49052,7 +49052,7 @@ non-classical monocyte,CDK1,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0045284343210682,Fal
 "naive thymus-derived CD4-positive, alpha-beta T cell",CD320,False,0.0308755806517826,0.0308755806517826,0.0062388271218872,0.0102599659647065,1.0,1.0,0.0307055872532452,True,positive,145
 "naive thymus-derived CD4-positive, alpha-beta T cell",XLOC_005219,False,0.0307623977975004,0.0307623977975004,0.0062159570010305,0.0083585796347622,1.0,1.0,0.0480132241636952,True,positive,146
 "naive thymus-derived CD4-positive, alpha-beta T cell",UBE2E3,False,0.030525977233113,0.030525977233113,0.0061681850402079,0.0043881370957838,1.0,1.0,0.0937604999182901,True,positive,147
-"naive thymus-derived CD4-positive, alpha-beta T cell",PHF19,False,-0.0304193759775137,0.0304193759775137,-0.0061466448200526,-0.0110840721303946,1.0,1.0,0.0540389681056959,True,negative,148
+"naive thymus-derived CD4-positive, alpha-beta T cell",PHF19,True,-0.0304193759775137,0.0304193759775137,-0.0061466448200526,-0.0110840721303946,1.0,1.0,0.0540389681056959,True,negative,148
 "naive thymus-derived CD4-positive, alpha-beta T cell",ID3,False,-0.0303309293573271,0.0303309293573271,-0.0061287729886179,-0.0083474980965029,1.0,1.0,-0.0100157730293815,True,negative,149
 "naive thymus-derived CD4-positive, alpha-beta T cell",UBE2L6,False,0.030297086162171,0.030297086162171,0.0061219345149965,0.0133883720821657,1.0,1.0,0.056889370868931,True,positive,150
 "naive thymus-derived CD4-positive, alpha-beta T cell",PSMD5-AS1,False,-0.0300973795134845,0.0300973795134845,-0.0060815810955646,-0.0080724504316209,1.0,1.0,-0.017420278682088,True,negative,151
@@ -54160,7 +54160,7 @@ intermediate monocyte,SLC35A1,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0184619800506373,F
 intermediate monocyte,TNFSF13B,False,-0.0,0.0,-0.0,-0.0,0.2,0.0,0.0310977160246152,False,zero,2536
 intermediate monocyte,SUCNR1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0147044507137457,False,zero,2537
 intermediate monocyte,CDK10,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0035160696017636,False,zero,2538
-intermediate monocyte,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0110155661449251,False,zero,2539
+intermediate monocyte,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0110155661449251,False,zero,2539
 intermediate monocyte,MCM8,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0581939057418349,False,zero,2540
 intermediate monocyte,EXOC2,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0135613200688254,False,zero,2541
 intermediate monocyte,PFKFB3,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0652133728319552,False,zero,2542
@@ -56872,7 +56872,7 @@ hematopoietic precursor cell,RBBP6,False,-0.0,0.0,-0.0,-0.0,0.6,0.0,-0.078074063
 hematopoietic precursor cell,APOM,False,-0.0,0.0,-0.0,-0.0,0.6,0.0,-0.014177731792456,False,zero,2531
 hematopoietic precursor cell,RBP4,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0702183348888581,False,zero,2532
 hematopoietic precursor cell,ANKRD49,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0817237309297825,False,zero,2533
-hematopoietic precursor cell,PHF19,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0364293252485774,False,zero,2534
+hematopoietic precursor cell,PHF19,True,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0364293252485774,False,zero,2534
 hematopoietic precursor cell,RGS18,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,-0.0818901335810581,False,zero,2535
 hematopoietic precursor cell,PSMA3,False,0.0,0.0,0.0,0.0,0.0,0.0,-0.0619587810778098,False,zero,2536
 hematopoietic precursor cell,PSMB1,False,-0.0,0.0,-0.0,-0.0,0.0,0.0,0.0058006153267621,False,zero,2537

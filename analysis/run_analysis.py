@@ -48,7 +48,7 @@ save(cq,'qc/blood_cell_summary.csv')
 common=b.index.intersection(x.index,sort=False)
 save(pd.DataFrame({'gene_symbol':common}),'qc/shared_genes.csv',False)
 for name,a in [('blood_only',b.index.difference(x.index)),('L1000_only',x.index.difference(b.index))]:save(pd.DataFrame({'gene_symbol':a}),f'qc/{name}_genes.csv',False)
-tfs=set((ROOT/'human_tfs.txt').read_text().splitlines())
+tfs=set((ROOT/'human_tfs.txt').read_text().split())
 save(pd.DataFrame({'perturbation':x.columns,'is_TF':x.columns.isin(tfs)}),'qc/perturbation_TF_annotation.csv',False)
 print('QC',len(common),'shared genes;',sum(x.columns.isin(tfs)),'TF perturbations',flush=True)
 # EDA: gene-wise z scoring is restricted to visualisation and PCA.
